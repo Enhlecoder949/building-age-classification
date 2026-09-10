@@ -4,7 +4,7 @@ A data science project developed during the **UCT StatsGeeks Data Science Hackat
 
 ## Presentation
 
-[View our presentation]((https://hackathon-gr-six.vercel.app/))
+[https://hackathon-gr-six.vercel.app/]
 
 ## Overview
 
