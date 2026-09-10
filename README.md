@@ -2,6 +2,10 @@
 
 A data science project developed during the **UCT StatsGeeks Data Science Hackathon 2026**.
 
+## Presentation
+
+[View our presentation]((https://hackathon-gr-six.vercel.app/))
+
 ## Overview
 
 The goal of this project was to use **Landsat satellite data and machine learning to predict building-age classes**.
